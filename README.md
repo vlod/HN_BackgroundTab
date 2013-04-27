@@ -7,7 +7,7 @@ A chrome extension for Hacker News, to open links/comments in a background new t
 Installation
 ------------
 
-From:[Getting Started: Building a Chrome Extension](http://developer.chrome.com/extensions/getstarted.html)[http://developer.chrome.com/extensions/getstarted.html)
+From: [Getting Started: Building a Chrome Extension](http://developer.chrome.com/extensions/getstarted.html)
 
     1. Visit chrome://extensions
     2. Ensure that the Developer Mode checkbox is checked.
