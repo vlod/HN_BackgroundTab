@@ -10,7 +10,7 @@
     "scripts": ["background.js"]
   },
   "content_scripts": [ {
-    "js": [ "jquery.min.js", "app.js" ],
+    "js": [ "zepto.min.js", "app.js" ],
     "matches": [ "https://news.ycombinator.com/*"]
   }],
   "permissions": [
